@@ -24,6 +24,13 @@ Allopurinol lowers uric acid and is used as long-term urate-lowering treatment t
 
 **C**olchicine → **A**cute gout attack
 
+
+
+#####TIP 4
+
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/521ff4d7-4ec6-4ad8-846e-5d02d26e973f" />
+
+
 Colchicine reduces the inflammation caused by urate crystals and may be used to treat an acute gout flare.
 
 ### 🧠 Memory Formula
