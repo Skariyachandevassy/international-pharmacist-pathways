@@ -266,5 +266,9 @@ The terms **onset**, **duration of clinical action** and **elimination half-life
 * [Lidocaine duration information](https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=89a4bd73-89f4-4fd7-2c9f-921e1da8f96b)
 * [Ropivacaine duration information](https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=9e1d1b15-c224-4ff4-a39d-3b9cebfc8403&type=display)
 
+##### TIP 4
+
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/f5f3b422-2f66-4016-bc3b-1a800684c626" />
+
 
 
